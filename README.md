@@ -3,7 +3,7 @@
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/akashdeep023">
+  <a style="https://github.com/Sushant0124">
   <img src="https://profile-counter.glitch.me/food-plaza/count.svg" />
   </a>
 </p>
@@ -85,13 +85,10 @@ A huge shoutout to Akshay Saini 🚀 sir for being a constant source of inspirat
 ## Author
 
 Akash Deep \
-Email: ad3500476@gmail.com \
-LinkedIn : https://www.linkedin.com/in/akashdeep023/
+Email: sushantbansal2004@gmail.com \
+LinkedIn : www.linkedin.com/in/sushant-bansal-a4719525a
 
-## Project Link
 
--   [1st Live Link](https://food-plaza-jack.onrender.com/)
--   [2st Live Link](https://food-plaza-jack.onrender.com/)
 
 ## Thank You
 
